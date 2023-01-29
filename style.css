@@ -1,0 +1,29 @@
+
+
+.jumbotron {
+	padding-top: 5rem;
+	background-color: #fff;
+	min-height: 900px;
+}
+.navbar{
+	background-color: #FD4E0A;
+}
+
+
+#projects {
+	background-color: #FD4E0A;
+	margin-top: -8px;
+	min-height: 800px;
+}
+#projects .pelayanan{
+	font-weight: 700;
+	font-family: rubik;
+
+}
+
+section {
+	padding-top: 4rem;
+}
+.footer{
+	background-color: #FD4E0A;
+}
