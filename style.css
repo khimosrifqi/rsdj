@@ -1,4 +1,6 @@
-
+.container {
+	min-height: 2000;
+}
 
 .jumbotron {
 	padding-top: 5rem;
@@ -26,4 +28,11 @@ section {
 }
 .footer{
 	background-color: #FD4E0A;
+}
+
+#gallery-img{
+	width: 100%;
+}
+#gallery .row > *{
+	padding:0;
 }
