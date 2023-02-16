@@ -47,7 +47,7 @@ section {
 	
 }
 .dokter-box::before{
-	content: 'MY';
+	content: 'DOKTER';
 	position: absolute;
 	color: #FD4E0A;
 	font-size: 6em;
@@ -61,7 +61,7 @@ section {
 
 }
 .dokter-box::after{
-	content: 'DOKTER';
+	content: 'RUMAH SAKIT DEDY JAYA';
 	position: absolute;
 	color: #FD4E0A;
 	font-size: 4.3em;
