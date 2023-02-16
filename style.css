@@ -121,3 +121,13 @@ section {
 .dokter-box:hover .dokter-img{
 	transform: translate3d(-50%, -52%, 100px) rotate(-2deg) scale(1.1);
 }
+
+
+.hari{
+	color: #fff;
+	background-color: #FD4E0A;
+	border-radius: 10px;
+	height: 70px;
+	position: relative;
+
+}
