@@ -5,7 +5,7 @@
 .jumbotron {
 	padding-top: 5rem;
 	background-color: #fff;
-	min-height: 900px;
+	min-height: 200px;
 }
 .navbar{
 	background-color: #FD4E0A;
@@ -16,11 +16,19 @@
 	background-color: #FD4E0A;
 	margin-top: -8px;
 	min-height: 800px;
+
 }
 #projects .pelayanan{
 	font-weight: 700;
 	font-family: rubik;
 
+}
+#fasilitas {
+	background-color: #FD4E0A;
+	margin-top: -8px;
+	min-height: 800px;
+	margin-top: -20px;
+	
 }
 
 section {
