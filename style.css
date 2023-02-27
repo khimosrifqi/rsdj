@@ -140,3 +140,10 @@ section {
 	position: relative;
 
 }
+
+section #ambulance {
+	margin-top: -65px;
+}
+section #bpjs {
+	margin-top: -65px;
+}
