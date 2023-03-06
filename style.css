@@ -147,3 +147,11 @@ section #ambulance {
 section #bpjs {
 	margin-top: -65px;
 }
+section #paketmcu .border {height: 250px;
+        width: 650px;
+        float: left;
+        margin : 0.3em;
+        color: #fff;
+        background-color: #FD4E0A;
+        text-align: center;
+        padding: 20px 10px;}
