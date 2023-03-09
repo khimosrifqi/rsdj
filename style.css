@@ -28,9 +28,11 @@
 	margin-top: -8px;
 	min-height: 800px;
 	margin-top: -20px;
+
+
+
 	
 }
-
 section {
 	padding-top: 4rem;
 }
@@ -141,14 +143,123 @@ section {
 
 }
 
+/*info lihat selengkapnya*/
+.btn-selengkapnya{
+	font-size: 9pt;
+	padding: 10px 30px;
+}
+.btn-lihat {
+font-weight: bold;
+color: #eb6423;
+border-radius: 50px;
+border: solid 1px #eb6423;
+background-color: white;
+}
+
 section #ambulance {
 	margin-top: -65px;
 }
 section #bpjs {
 	margin-top: -65px;
 }
+section #bpjs .border {height: 650px;
+        width: 550px;
+        float: left;
+        margin : 0.3em;
+        color: #fff;
+        background-color: #FD4E0A;
+        text-align: center;
+        padding: 20px 10px;}
+section #ambulance .border {height: 350px;
+        width: 550px;
+        float: left;
+        margin : 0.3em;
+        color: #fff;
+        background-color: #FD4E0A;
+        text-align: center;
+        padding: 20px 10px;}
 section #paketmcu .border {height: 250px;
         width: 650px;
+        float: left;
+        margin : 0.3em;
+        color: #fff;
+        background-color: #FD4E0A;
+        text-align: center;
+        padding: 20px 10px;}
+section #poliklinik .border {height: 250px;
+        width: 650px;
+        float: left;
+        margin : 0.3em;
+        color: #fff;
+        background-color: #FD4E0A;
+        text-align: center;
+        padding: 20px 10px;}
+
+section #polianak .border {height: 250px;
+        width: 500px;
+        float: left;
+        margin : 0.3em;
+        color: #fff;
+        background-color: #FD4E0A;
+        text-align: center;
+        padding: 20px 10px;}
+section #polipenyakitdalam .border {height: 350px;
+        width: 500px;
+        float: left;
+        margin : 0.3em;
+        color: #fff;
+        background-color: #FD4E0A;
+        text-align: center;
+        padding: 20px 10px;}
+section #polikebidanan .border {height: 450px;
+        width: 500px;
+        float: left;
+        margin : 0.3em;
+        color: #fff;
+        background-color: #FD4E0A;
+        text-align: center;
+        padding: 20px 10px;}
+section #polifisioterapi .border {height: 450px;
+        width: 500px;
+        float: left;
+        margin : 0.3em;
+        color: #fff;
+        background-color: #FD4E0A;
+        text-align: center;
+        padding: 20px 10px;}
+section #polisyaraf .border {height: 350px;
+        width: 500px;
+        float: left;
+        margin : 0.3em;
+        color: #fff;
+        background-color: #FD4E0A;
+        text-align: center;
+        padding: 20px 10px;}
+section #polipenyakitkulit .border {height: 350px;
+        width: 500px;
+        float: left;
+        margin : 0.3em;
+        color: #fff;
+        background-color: #FD4E0A;
+        text-align: center;
+        padding: 20px 10px;}section #poligizi .border {height: 350px;
+        width: 500px;
+        float: left;
+        margin : 0.3em;
+        color: #fff;
+        background-color: #FD4E0A;
+        text-align: center;
+        padding: 20px 10px;}
+section #polipsikologi .border {height: 350px;
+        width: 1100px;
+        float: left;
+        margin : 0.3em;
+        color: #fff;
+        background-color: #FD4E0A;
+        text-align: center;
+        padding: 20px 10px;}
+section #polimata .border {height: 350px;
+        width: 500px;
         float: left;
         margin : 0.3em;
         color: #fff;
