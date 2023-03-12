@@ -27,11 +27,10 @@
 	background-color: #FD4E0A;
 	margin-top: -8px;
 	min-height: 800px;
-	margin-top: -20px;
-
-
-
-	
+	margin-top: -20px;	
+}
+#carouselExampleDark {
+        background-size: cover;
 }
 section {
 	padding-top: 4rem;
@@ -155,6 +154,11 @@ border-radius: 50px;
 border: solid 1px #eb6423;
 background-color: white;
 }
+/*teks folder pelayanan */
+.carousel-inner .fontpelayanan{
+        color: #FD4E0A;
+        text-shadow: 1px 1px #000000;
+}
 
 section #ambulance {
 	margin-top: -65px;
@@ -266,3 +270,33 @@ section #polimata .border {height: 350px;
         background-color: #FD4E0A;
         text-align: center;
         padding: 20px 10px;}
+section #rawatinap .border {height: 350px;
+        width: 400px;
+        float: left;
+        margin : 0.3em;
+        color: #fff;
+        background-color: #FD4E0A;
+        text-align: left;
+        padding: 20px 10px;}
+section #ranap .border {
+	height: 500px;
+	width: 630px;
+	float: left;
+        margin : 0.3em;
+        color: #fff;
+        background-color: #FD4E0A;
+        text-align: left;
+        padding: 20px 10px;
+
+}
+section #ranap .listranap .border {
+	height: 500px;
+	width: 430px;
+	float: left;
+        margin : 0.3em;
+        color: #fff;
+        background-color: #FD4E0A;
+        text-align: left;
+        padding: 20px 10px;
+
+}
